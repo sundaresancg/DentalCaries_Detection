@@ -2,7 +2,8 @@
 A deep learning model to detect the presence of dental caries from a panoramic X-ray image.
 
 Dataset : 
-Panoramic Dental Xray Dataset (116 images originally, 94 caries and 22 non-caries images, approx dimensions = 1200 x 2800)
+Panoramic Dental Xray Dataset (116 images originally, 94 caries and 22 non-caries images)
+Approx Dimensions = 1200 x 2800
 
 Augmentation : Rotate 180, Vertical Flip, Horizontal Flip
 
@@ -11,7 +12,7 @@ New dataset after augmentation :
 
 Preprocessing : Images resized to 256x256
 
-Build a Convolutional Neural Network for classification and achieved an accuracy of 94%.
+Built a Convolutional Neural Network for classification and achieved an accuracy of 94%.
 
 Launched in browser using Streamlit :
 Prompts to upload an dental Xray image, 
