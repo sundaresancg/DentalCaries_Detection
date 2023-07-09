@@ -9,7 +9,7 @@ New dataset after augmenting : 94 caries and 88 non-caries images
 
 Preprocessing : Images resized to 256x256
 
-Model used : Convolutional Neural Network
+Build a Convolutional Neural Network for classification and achieved an accuracy of 95%.
 
 Launched in browser using Streamlit :
 Prompts to upload an dental Xray image, 
