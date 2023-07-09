@@ -1,9 +1,10 @@
 # DentalCaries_Detection
 A deep learning model to detect the presence of dental caries from a panoramic X-ray image.
 
-Dataset : 
-Panoramic Dental Xray Dataset (116 images originally, 94 caries and 22 non-caries images)
+Dataset : Panoramic Dental Xray Dataset (source: data.mendeley.com)
+116 images originally, 94 caries and 22 non-caries images;
 Approx Dimensions = 1200 x 2800
+
 
 Augmentation : Rotation, Vertical Flip, Horizontal Flip
 
