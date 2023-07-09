@@ -5,7 +5,7 @@ Dataset :
 Panoramic Dental Xray Dataset (116 images originally, 94 caries and 22 non-caries images)
 Approx Dimensions = 1200 x 2800
 
-Augmentation : Rotate 180, Vertical Flip, Horizontal Flip
+Augmentation : Rotation, Vertical Flip, Horizontal Flip
 
 New dataset after augmentation : 
 94 caries and 88 non-caries images
