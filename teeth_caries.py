@@ -6,7 +6,7 @@ import sklearn
 from skimage import transform
 from tensorflow.keras.models import load_model
 
-model1 = load_model('G:/ML/TeethCaries/caries_model1.h5')
+model1 = load_model('DentalCaries/DentalCaries_Detection/caries_model1.h5')
 
 st.subheader(':orange[Dental Caries Detection]')
 
